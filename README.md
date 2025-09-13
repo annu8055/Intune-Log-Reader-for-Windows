@@ -81,6 +81,19 @@ lib/
 └── main.dart        # Application entry point
 ```
 
+### Future Roadmap
+
+#### Version 1.1 (Planned)
+- Custom log path configuration
+- Trend analysis charts
+- Advanced search operators
+
+#### Version 1.2 (Planned)
+- Multi-language support
+- Theme customization
+- Plugin architecture
+- Scheduled exports
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
