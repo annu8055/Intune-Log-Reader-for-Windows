@@ -14,6 +14,17 @@ Intune Log Reader provides real-time analysis and monitoring of Microsoft Intune
 - **Export Functions**: CSV export and detailed report generation
 - **Live Monitoring**: Real-time log updates (when available)
 
+## Screenshots
+<img width="1267" height="711" alt="Screenshot 2025-09-14 at 00 00 34" src="https://github.com/user-attachments/assets/d481fe3a-35c3-4245-be4d-aebbe1c1cbc6" />
+<img width="993" height="556" alt="Screenshot 2025-09-14 at 00 03 03" src="https://github.com/user-attachments/assets/817a2392-4f89-4e3a-b1b1-0711989cd938" />
+<img width="1265" height="709" alt="Screenshot 2025-09-14 at 00 03 30" src="https://github.com/user-attachments/assets/f93d346a-c29a-4fd0-b668-e9a9b1b353a4" />
+<img width="1264" height="712" alt="Screenshot 2025-09-14 at 00 03 49" src="https://github.com/user-attachments/assets/881135cd-a1ca-4c8a-89bb-f36aa2ae1fe0" />
+<img width="1264" height="710" alt="Screenshot 2025-09-14 at 00 04 16" src="https://github.com/user-attachments/assets/b3acde62-114b-4f7f-b789-716e857f4f28" />
+<img width="1267" height="711" alt="Screenshot 2025-09-14 at 00 04 43" src="https://github.com/user-attachments/assets/67f900a3-ccb8-46c5-b8bd-5c4d2c60aa61" />
+<img width="1259" height="705" alt="Screenshot 2025-09-14 at 00 05 26" src="https://github.com/user-attachments/assets/8abbad80-4c86-4182-8811-fc6c597db32b" />
+<img width="1262" height="708" alt="Screenshot 2025-09-14 at 00 05 44" src="https://github.com/user-attachments/assets/1f03618f-0dcd-485e-8b60-b26393e99f74" />
+
+
 ## Installation
 
 ### Method 1: Windows Installer (Recommended)
